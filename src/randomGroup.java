@@ -81,11 +81,6 @@ public class randomGroup {
         }
 
     }
-    /*
-    public void GroupExists(){
-
-    }
-    */
 
     public void Display() {
         System.out.println(this.arrayOfGroups);
